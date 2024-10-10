@@ -11,6 +11,9 @@ export default {
         secondary: "#1e40af",
       },
     },
+    container: {
+      center: true,
+    },
   },
   plugins: [],
 };
